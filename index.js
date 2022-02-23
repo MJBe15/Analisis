@@ -27,7 +27,6 @@ edadUsuario=16;
 console.log(edadUsuario);
 var edad=17;
 edadUsuario=edad;
-console.log(edadUsuario);
 /*
 Asignar valor desde teclado:
 existe dos formas de hacerlo, la primera es hacerlo por ventana emergente y la segunda es por medio de un formulario en html
