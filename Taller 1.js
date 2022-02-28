@@ -2,7 +2,7 @@
 /*Taller 1
  Fecha: 23/02/2022
   Realizado por: María José Berrocal 
-  */
+ */
 
 var nombreVariable=MaríaJoséBerrocal; //String
 var gradoEstudiante = "10B";  //String
