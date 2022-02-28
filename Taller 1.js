@@ -4,8 +4,11 @@
   Realizado por: María José Berrocal 
  */
 
-var nombreVariable=MaríaJoséBerrocal; //String
-var gradoEstudiante = "10B";  //String
-var valor = prompt ("ingrese un valor"); //int
-console.log ("la variable vale" + 15);
-console.log("El estudiante María José del grado 10A tiene 15 años")
+var nombreEstudiante; //String
+var gradoEstudiante = "10A";  //String
+var edadEstudiante; //int
+
+var nombreEstudiante = "MaríaJosé" ; //String
+var gradoEstudiante = "10A";  //String
+console.log("El estudiante Matía José del grado 10A tiene 15 años")
+
