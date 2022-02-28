@@ -1,7 +1,8 @@
-/*
-Archivo de práctica y pruebas de JavaScript
-*/
-// Taller 1, Fecha: 23/02/2022, Realizado por: María José Berrocal //
+// Archivo de práctica y pruebas de JavaScript //
+/*Taller 1
+ Fecha: 23/02/2022
+  Realizado por: María José Berrocal 
+  */
 
 var nombreVariable=MaríaJoséBerrocal; //String
 var gradoEstudiante = "10B";  //String
