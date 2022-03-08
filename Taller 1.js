@@ -5,10 +5,11 @@
  */
 
 var nombreEstudiante; //String
-var gradoEstudiante = "10A";  //String
+var gradoEstudiante;  //String
 var edadEstudiante; //int
 
 var nombreEstudiante = "MaríaJosé" ; //String
 var gradoEstudiante = "10A";  //String
-console.log("El estudiante Matía José del grado 10A tiene 15 años")
+var edadEstudiante = "15";  //int
+console.log ("El estudiante" +    nombreEstudiante  +  "del grado" +  gradoEstudiante  + "tiene" +  edadEstudiante  + "años" );
 
