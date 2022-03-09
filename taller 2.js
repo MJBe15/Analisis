@@ -15,7 +15,12 @@ var base =prompt ("ingrese la base del rectángulo para obtener el area ")
 var rectangulo =altura*base;
 console.log (rectangulo);
 
-var perimetro = 2*(altura+base);
+var perimetro = altura+altura+base+base;
 console.log (perimetro);
+
+//Halle el diametro de un circulo
+var diametro =prompt ("ingrese el diametro del circulo ")
+
+
 
 
