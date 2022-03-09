@@ -1,7 +1,6 @@
-Taller 1:
+Taller 1: NOTA: 3.2
     * El html no tenia el script del js, por tanto no tenia manera de probar el código.
     * Linea 11 crea otra variable, en vez de utilizar la misma creada en la linea 7. Así se asignaba un valor.
     * La edad no se pide por teclado.
     * La impresión por consola debía ser con variables
     
-    NOTA: 3.2
