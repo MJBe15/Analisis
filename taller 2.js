@@ -20,7 +20,11 @@ console.log (perimetro);
 
 //Halle el diametro de un circulo
 var diametro =prompt ("ingrese el diametro del circulo ")
+var radio = diametro/2;
+var areaCirculo = Math.PI*radio**2;
+console.log (areaCirculo);
 
-
-
-
+//Halle el volumen de la esfera
+var diametro =prompt ("ingrese el radio de la esfera ")
+var volumen = 4/3*Math.PI*radio**3;
+console.log (volumen);
