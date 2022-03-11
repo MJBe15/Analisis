@@ -29,3 +29,38 @@ var diametro =prompt ("ingrese el radio de la esfera ")
 var volumen = 4/3*Math.PI*radio**3;
 console.log (volumen);
 
+//Halle el área de un trapezoide
+var base1 =prompt ("ingrese una base del trapezoide")
+var base2 =prompt ("ingrese otra base del trapezoide")
+var altura =prompt ("ingrese la altura de su trapezoide");
+var areaTrapezoide = 0.5*base1+base2*altura;
+console.log (areaTrapezoide);
+
+//Cuantos litros de agua se llenaria una piscina 
+var ancho =prompt ("ingrese el ancho de la piscina")
+var largo =prompt ("ingrese el largo de la piscina")
+var profundo =prompt ("ingrese la profundidad de la piscina")
+var litros = ancho*largo*profundo;
+console.log ("las cantidades que coloco dan como resultado", litros);
+
+// Total a pagar por pintar la fachada de una vivienda
+var alto =prompt ("ingrese el alto del muro")
+var ancho =prompt ("ingrese el ancho del muro")
+var costo = alto*ancho*22.000; 
+
+//Convierta las unidades
+var centimetros =prompt ("ingrese un valor en centimetros")
+var kilometros=centimetros*(1/100)*(1/1000);
+console.log ("el valor que ingreso transformado es", kilometros);
+
+var decilimetros =prompt ("ingrese un valor en decilimetros")
+var litros=decilimetros *(0.1/1.0);
+console.log ("el valor que ingreso transformado es", decilimetros);
+
+var microgramos =prompt ("ingrese un valor en decilimetros")
+var gramos=microgramos *(1.0/1.000000);
+console.log ("el valor que ingreso transformado es", gramos);
+
+var kilometros=prompt  ("ingrese un valor en kilometros")
+var milimetros=kilometros*(1000/1)*(1000/1);
+console.log ("el valor que ingreso transformado es", milimetros);
