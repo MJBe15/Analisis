@@ -4,7 +4,7 @@ var area2 =prompt ("ingrese la medida del otro lado del cuadrado")
 var cuadrado;
 var cuadrado = area1 * area2;
 console.log (cuadrado);
-
+/*
 var arista =prompt ("ingrese la medida de la arista")
 var volumenCubo=arista**3;
 console.log (volumenCubo);
@@ -52,7 +52,7 @@ var costo = alto*ancho*22.000;
 var centimetros =prompt ("ingrese un valor en centimetros")
 var kilometros=centimetros*(1/100)*(1/1000);
 console.log ("el valor que ingreso transformado es", kilometros);
-
+*/
 var decilimetros =prompt ("ingrese un valor en decilimetros")
 var litros=decilimetros *(0.1/1.0);
 console.log ("el valor que ingreso transformado es", decilimetros);

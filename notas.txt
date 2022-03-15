@@ -3,4 +3,11 @@ Taller 1: NOTA: 3.2
     * Linea 11 crea otra variable, en vez de utilizar la misma creada en la linea 7. Así se asignaba un valor.
     * La edad no se pide por teclado.
     * La impresión por consola debía ser con variables
-    
+
+Taller 2: Nota 3.7
+    * faltó el console.log(“solución punto #”); al inicio de cada punto para que fuera más organizado al momento de mostrar respuestas en la consola del navegador
+    * En general, en cada punto, el mensaje del resultado debía ser más específico para que el usuario sepa a qué le corresponde ese valor.
+    * En la línea 28 no realiza ninguna funcion ya que la formula en la línea 29 utiliza el radio hallado en la línea 23 (pudo omitir/borrar la línea 28)
+    * Línea 36, debe usar parentesis para que el orden de las operaciones se hagan correctamente 0.5*(base1+base2)*altura
+    * Punto de la línea 46 no muestra el resultado por consola, el 22.000 no debe llevar punto(.) línea 49 porque lo convierte en decimal. Siempre compruebe los resultados.
+    *Del punto 7, solo la primera operacion está correcta. Las demás no arrojan el valor esperado.
