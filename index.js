@@ -122,3 +122,34 @@ nombrecito[0] = "P";
 console.log (nombrecito);
 nombrecito = "Mauricio";
 console.log (nombrecito);
+
+//Parseo o casting
+/* Se trata de convertir las variables a otro tipos de datos, los cambios existentes son: enter
+a entero parse.Int()
+a decimal parse.Float()
+a cadena string()
+*/
+
+
+//Convertir una variable
+
+var entero1=prompt("Ingrese un entero");//3
+var entero2=prompt("ingrese otro entero");//8
+var sumaE=entero1+entero2;
+console.log ("sin parseInt"+sumaE);//38
+
+//forma1
+/* convertir el dato justo en el momento en  el que se recibe por teclado 
+esto implica que cuando se llame la variable ya este convertida al tipo de dato deseado
+*/
+entero1=parseInt (prompt("Ingrese un entero"));//3
+entero2=parseInt (prompt("ingrese otro entero"));//8
+sumaE=entero1+entero2;
+console.log("convertido en"+sumaE);
+
+//Ejercicio, solicitar el perímetro 
+
+var altura=parseInt(prompt("por favor ingrese la altura del rectangulo"));
+var base=parseInt(prompt("por favor ingrese la medida de la base"));
+var perimetro=altura+base+altura+base;
+console.log("el perimetro del rectangulo es",perimetro);

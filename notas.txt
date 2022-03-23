@@ -11,3 +11,9 @@ Taller 2: Nota 3.7
     * Línea 36, debe usar parentesis para que el orden de las operaciones se hagan correctamente 0.5*(base1+base2)*altura
     * Punto de la línea 46 no muestra el resultado por consola, el 22.000 no debe llevar punto(.) línea 49 porque lo convierte en decimal. Siempre compruebe los resultados.
     *Del punto 7, solo la primera operacion está correcta. Las demás no arrojan el valor esperado.
+
+
+Taller 3 (recuperación): Nota 4.2 - de ese 4.2 tomo 0.3 para que el primer taller quede en 3.5 y el 3.9 restante, lo pongo como nota del segundo taller. (escriba "de acuerdo" en el renglón de abajo y suba ese cambio a git)
+_____________
+    * Linea 6, el mensaje no es solicitando las medidas de la piscina, es la capacidad de agua.
+    * Linea 53. Tenga el cuenta el orden de operaciones. Resultado incorrecto.
