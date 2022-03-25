@@ -14,6 +14,6 @@ Taller 2: Nota 3.7
 
 
 Taller 3 (recuperación): Nota 4.2 - de ese 4.2 tomo 0.3 para que el primer taller quede en 3.5 y el 3.9 restante, lo pongo como nota del segundo taller. (escriba "de acuerdo" en el renglón de abajo y suba ese cambio a git)
-_____________
+De acuerdo____sI________
     * Linea 6, el mensaje no es solicitando las medidas de la piscina, es la capacidad de agua.
     * Linea 53. Tenga el cuenta el orden de operaciones. Resultado incorrecto.

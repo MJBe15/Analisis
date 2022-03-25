@@ -54,7 +54,6 @@ precio= 40000+25000*horas-1;
 console.log ("el precio que debe cancelar por clases dadas es" + precio );
 
 /*
- 
 1.  40000+25000*0
 
 2.  40000+25000*1
@@ -62,5 +61,4 @@ console.log ("el precio que debe cancelar por clases dadas es" + precio );
 3.   40000+25000*2
 
 40000+25000*horas-1
-
 */
