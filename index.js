@@ -153,3 +153,5 @@ var altura=parseInt(prompt("por favor ingrese la altura del rectangulo"));
 var base=parseInt(prompt("por favor ingrese la medida de la base"));
 var perimetro=altura+base+altura+base;
 console.log("el perimetro del rectangulo es",perimetro);
+
+/*corchetesalt + 91 */
