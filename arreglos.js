@@ -53,12 +53,12 @@ console.log ("Elimina shift"+arreglos);
 */
 
 //1
-var arreglos = ["Análisis, Tecnología, Desarrollo"];
-console.log (arreglos);
+var arreglos = ["Análisis", "Tecnología", "Desarrollo"];
+console.log ("punto 1: "+arreglos);
 //2
-arreglos[3]="BBDD";
-console.log ("Análisis, Tecnología,"+ arreglos[3]);
+arreglos[2]="BBDD";
+console.log ("punto 2: "+arreglos);
 3//
 arreglos.unshift("Introducción");
 arreglos.pop ();
-console.log("vector convertido"+arreglos);
+console.log ("punto 3: "+arreglos);
