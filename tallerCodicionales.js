@@ -1,15 +1,20 @@
+//Punto1
+
 var saludar = "si";
  
 if(saludar=="si"){
     console.log("Hola, soy un condicional simple");
 }
 
+//Punto2
 
 var x=20;
  
 if(x<=20){
     console.log("La condición es verdadera");
 }
+
+//punto3
 
 var edad=18;
 
@@ -20,6 +25,7 @@ if(edad>=18){
     console.log("Lo siento, no tiene edad suficiente para entrar aquí" );
 }
 
+//Punto4
 
 var numero1 = 5;
 var numero2 = 8;
@@ -37,6 +43,7 @@ if(numero1+1 <numero2 ) {
   console.log("Incrementar en 1 unidad el valor de numero1 no lo hace mayor o igual que numero2");
 }
 
+//Punto5
 
 var numerito = 100;
  
@@ -51,10 +58,13 @@ if(numerito<50) {
 }else{
     console.log("numerito es estrictamente mayor a 100");
 }
+//Punto6,7,8
 
 numerito=90
 numerito=70
 numerito=120
+
+//Punto9
 
 var diaActual="Jueves";
 if (diaActual=="Jueves"){
@@ -63,6 +73,7 @@ if (diaActual=="Jueves"){
   console.log("no puedes ir al polideportivo");
 }
 
+//Punto10
 
 var valor1=2
 var valor2=0
@@ -71,23 +82,38 @@ if(valor2==0){
 }else{
   console.log(valor1/valor2);
 }
+ //Punto11
 
-var dia="domingo"
+var dia="martes"
+var plato
 
 if (dia=="lunes"){
-  dia="Arroz con pollo";
+  plato="Arroz con pollo";
 }else if(dia=="martes"){
-  dia="Chuleta de Cerdo/Pollo";
+  plato="Chuleta de Cerdo/Pollo";
 }else if (dia=="miercoles"){
-  dia="Frijoles";
+  plato="Frijoles";
 }else if (dia=="jueves"){
-  dia="Sancocho de Pescado";
+  plato="Sancocho de Pescado";
 }else if (dia=="viernes"){
-  dia="Bandeja Paisa";
+  plato="Bandeja Paisa";
 }else if (dia=="sabado"){
-  dia="Ajiaco";
+  plato="Ajiaco";
 }else if (dia="domingo"){
-  dia="Sancocho de Gallina";
+  plato="Sancocho de Gallina";
 }
-console.log("El día se hoy hay" + dia + "de comida");
+console.log("El día se hoy hay " + plato + " de comida");
 
+//Punto12
+
+var caracter = "m"
+var tipo
+
+ if ( caracter=="a" || caracter== "e" || caracter=="i" || caracter== "o" || caracter== "u" ){
+   tipo=" una vocal";
+ }else if (caracter=0 || caracter==1 || caracter==2 || caracter==3 || caracter==4 || caracter==5 || caracter==6 || caracter==7 || caracter ==8 || caracter==9) {
+   tipo="un numero";
+ } else {
+  tipo= "una consonante";
+ }
+console.log ("el caracter ingresado es " + tipo );
