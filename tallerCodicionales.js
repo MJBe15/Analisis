@@ -85,7 +85,7 @@ if(valor2==0){
  //Punto11
 
 var dia="martes"
-var plato
+var plato;
 
 if (dia=="lunes"){
   plato="Arroz con pollo";
@@ -107,7 +107,7 @@ console.log("El día se hoy hay " + plato + " de comida");
 //Punto12
 
 var caracter = "m"
-var tipo
+var tipo;
 
  if ( caracter=="a" || caracter== "e" || caracter=="i" || caracter== "o" || caracter== "u" ){
    tipo=" una vocal";
