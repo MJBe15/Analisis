@@ -17,3 +17,13 @@ Taller 3 (recuperación): Nota 4.2 - de ese 4.2 tomo 0.3 para que el primer tall
 De acuerdo____sI________
     * Linea 6, el mensaje no es solicitando las medidas de la piscina, es la capacidad de agua.
     * Linea 53. Tenga el cuenta el orden de operaciones. Resultado incorrecto.
+
+
+************************************* Segundo periodo 
+
+Taller 1: Nota 4.6
+    * linea 55 falta el = en la segunda condicion
+    * linea 102 falta un = para que sea comparación de igualdad
+
+
+Enlace al examen: https://acortar.link/5UUBF0
