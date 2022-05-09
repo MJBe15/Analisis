@@ -28,7 +28,7 @@ Taller 1: Nota 4.6
 
 Enlace al examen: https://acortar.link/
 
-examen: Nota
+examen: Nota 5
     * linea 20, debía de "40" y no solo 40
     * linea 31, debía ser "40" también
     * punto 5, si el usuario digita un valor diferente a los esperados, el programa no sabrá responder a eso
