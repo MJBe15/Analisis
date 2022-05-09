@@ -26,4 +26,10 @@ Taller 1: Nota 4.6
     * linea 102 falta un = para que sea comparación de igualdad
 
 
-Enlace al examen: https://acortar.link/5UUBF0
+Enlace al examen: https://acortar.link/
+
+examen: Nota
+    * linea 20, debía de "40" y no solo 40
+    * linea 31, debía ser "40" también
+    * punto 5, si el usuario digita un valor diferente a los esperados, el programa no sabrá responder a eso
+    * punto 6, si no cumpla las condiciones de ==, por defecto, el algoritmo entiende que si no igual (==) es porque es diferente (!=). Por tanto, no es necesario poner condición en el último else if(), bastaba con else -else significa "para todo lo demás"-
