@@ -1,3 +1,7 @@
+
+
+María José Berrocal y Camila Zuluaga
+
 Taller 1: NOTA: 3.2
     * El html no tenia el script del js, por tanto no tenia manera de probar el código.
     * Linea 11 crea otra variable, en vez de utilizar la misma creada en la linea 7. Así se asignaba un valor.
@@ -28,8 +32,26 @@ Taller 1: Nota 4.6
 
 Enlace al examen: https://acortar.link/
 
-examen: Nota 5
+examen condicional: Nota 5
     * linea 20, debía de "40" y no solo 40
     * linea 31, debía ser "40" también
     * punto 5, si el usuario digita un valor diferente a los esperados, el programa no sabrá responder a eso
-    * punto 6, si no cumpla las condiciones de ==, por defecto, el algoritmo entiende que si no igual (==) es porque es diferente (!=). Por tanto, no es necesario poner condición en el último else if(), bastaba con else -else significa "para todo lo demás"-
+    * punto 6, si no cumpla las condiciones de ==, por defecto, el algoritmo entiende que si no igual (==) es porque es diferente (!=). Por tanto, no es necesario poner condición en el último else if(), bastaba con else -else significa "para todo lo demás"
+
+Taller while: nota 5
+    * linea 60, no se uso la variables
+    * No realizaron bonus
+
+
+examen while: nota 3.6
+    * linea 6, no es operacion es condicion
+    * linea 7, evalua si el número de la variable cicloA es multiplo de 5
+    * linea 12, debe ser mas específico ¿que tipo de operacion?
+    * linea 47, ¿pregunta por cantidad y luego lo compara con la palabra "si" ?
+    * Linea 57, debía valer 0 porque si no obtiene descuento el mensaje le sale con la variable indefinida 
+    * lineas 58, 61 condiciones incorrectas 
+    * linea 74, no preguntan lo que debería 
+    * linea 78, la variable cicloE está vacía.
+    * linea 79, parseInt hace que si la nota es 3.8 solo tome el 3 ya que lo convierte en entero, debían utilizar parseFloat
+    * la condicion que comienza en la linea 88 debe ir fuera del ciclo porque eso se evalúa cuando haya registrado todas las notas
+    * la condicion de la linea 90 debe comparar si es >= porque eso provoca que se abra curso de verano
