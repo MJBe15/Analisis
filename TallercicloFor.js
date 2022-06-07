@@ -80,4 +80,10 @@ for(var i=0; i<arregloProductos.length; i++){
 //Punto 6
 console.log("Punto 6");
 
-var articulo
+var nombreArticulo = prompt("Ingrese el nombre de un producto para conocer el precio")
+
+for(var i=0; i<arregloProductos.length; i++){
+    if(arregloProductos[i]==nombreArticulo){
+        console.log("el precio de " +nombreArticulo+" es $" +arregloprecio[i])
+    }
+}
