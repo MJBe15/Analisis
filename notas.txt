@@ -55,3 +55,7 @@ examen while: nota 3.6
     * linea 79, parseInt hace que si la nota es 3.8 solo tome el 3 ya que lo convierte en entero, debían utilizar parseFloat
     * la condicion que comienza en la linea 88 debe ir fuera del ciclo porque eso se evalúa cuando haya registrado todas las notas
     * la condicion de la linea 90 debe comparar si es >= porque eso provoca que se abra curso de verano
+
+Ciclo For: Nota 4.7
+    * Los mensajes no son claros, deben indicar para qué se necesita el número solicitado 
+     
