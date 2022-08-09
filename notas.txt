@@ -57,5 +57,5 @@ examen while: nota 3.6
     * la condicion de la linea 90 debe comparar si es >= porque eso provoca que se abra curso de verano
 
 Ciclo For: Nota 4.7
-    * Los mensajes no son claros, deben indicar para qué se necesita el número solicitado 
+              b  * Los mensajes no son claros, deben indicar para qué se necesita el número solicitado 
      
