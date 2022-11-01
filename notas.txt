@@ -58,4 +58,9 @@ examen while: nota 3.6
 
 Ciclo For: Nota 4.7
               b  * Los mensajes no son claros, deben indicar para qué se necesita el número solicitado 
+
+
+
+Geometría:
+    Nota: 4.6 Deben tener en cuenta las opciones que no son válidas
      
